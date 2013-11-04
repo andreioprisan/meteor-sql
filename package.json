@@ -1,6 +1,6 @@
 {
   "name": "meteor-sql",
-  "description": "Meteor SQL Bindings",
+  "description": "meteor sql bindings for server-side calls",
   "homepage": "https://github.com/andreioprisan/meteor-sql",
   "author": "Andrei Oprisan (http://andrei.oprisan.com)",
   "version": "1.2.2",

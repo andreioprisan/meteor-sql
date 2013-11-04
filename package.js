@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Meteor SQL Bindings"
+  summary: "meteor sql bindings for server-side calls"
 });
 
 Npm.depends({ "squel": "1.2.1" });
