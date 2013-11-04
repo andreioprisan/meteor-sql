@@ -1,0 +1,1 @@
+sql = Npm.require('squel');

@@ -1,0 +1,8 @@
+{
+  "name": "meteor-sql",
+  "description": "Meteor SQL Bindings",
+  "homepage": "https://github.com/andreioprisan/meteor-sql",
+  "author": "Andrei Oprisan (http://andrei.oprisan.com)",
+  "version": "1.2.1",
+  "git": "http://github.com/andreioprisan/meteor-sql.git"
+}
