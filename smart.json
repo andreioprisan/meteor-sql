@@ -3,6 +3,6 @@
   "description": "meteor sql bindings for server-side calls",
   "homepage": "https://github.com/andreioprisan/meteor-sql",
   "author": "Andrei Oprisan (http://andrei.oprisan.com)",
-  "version": "1.2.2",
-  "git": "http://github.com/andreioprisan/meteor-sql.git"
+  "version": "1.2.3",
+  "git": "https://github.com/andreioprisan/meteor-sql.git"
 }

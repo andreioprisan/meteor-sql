@@ -9,6 +9,6 @@ This uses version 1.2.1 of the Twilio squel package.
 
 #### To Install
 
-    mrt add sql
+    mrt add meteor-sql
 
 
